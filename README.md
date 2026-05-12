@@ -55,4 +55,4 @@ The data and dashboard visuals included in this repository were anonymized and m
 
 ## Author
 Noor Ayyad  
-Business Intelligence & Data Analysis Graduate
+Business Intelligence & Data Analysis 
