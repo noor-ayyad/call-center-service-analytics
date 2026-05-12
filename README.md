@@ -1,2 +1,58 @@
-# call-center-service-analytics
-Interactive Power BI dashboard for analyzing call center performance, service requests, KPIs, and operational trends.
+# Call Center & Service Analytics Dashboard
+
+## Project Overview
+This project presents an interactive Power BI dashboard designed to analyze call center performance, service requests, and operational KPIs. The dashboard helps monitor trends, request handling efficiency, and overall service performance to support data-driven decision-making.
+
+---
+
+## Objectives
+- Monitor service request performance
+- Analyze operational KPIs and trends
+- Track request status and resolution efficiency
+- Improve visibility into service operations
+- Support performance monitoring and reporting
+
+---
+
+## Tools & Technologies
+- Power BI
+- Microsoft Excel
+- Power Query
+- DAX
+- Data Visualization
+
+---
+
+## Dashboard Features
+- KPI cards for operational monitoring
+- Service request trend analysis
+- Request status tracking
+- Channel and category analysis
+- Interactive slicers and filters
+- Performance overview dashboards
+
+---
+
+## Dashboard Screenshots
+<img width="1079" height="662" alt="Screenshot 2026-05-11 104406" src="https://github.com/user-attachments/assets/cc973c63-2cd6-4323-a3ab-ec2f0e920261" />
+
+
+
+---
+
+## Key Insights
+- Identified trends in service request volumes
+- Improved visibility into overdue and pending requests
+- Enabled easier monitoring of operational performance
+- Supported analysis of request channels and categories
+
+---
+
+## Note
+The data and dashboard visuals included in this repository were anonymized and modified to protect confidential business information.
+
+---
+
+## Author
+Noor Ayyad  
+Business Intelligence & Data Analysis Graduate
