@@ -34,7 +34,7 @@ This project presents an interactive Power BI dashboard designed to analyze call
 ---
 
 ## Dashboard Screenshots
-<img width="1079" height="662" alt="Screenshot 2026-05-11 104406" src="https://github.com/user-attachments/assets/cc973c63-2cd6-4323-a3ab-ec2f0e920261" />
+
 
 
 
