@@ -35,7 +35,6 @@ This project presents an interactive Power BI dashboard designed to analyze call
 ### Monthly Overview
 This dashboard provides a high-level overview of call center performance, including total calls, ticket activity, SLA compliance, answer rate, abandoned calls, and operational KPIs.
 
-## Dashboard Screenshots
 <img width="1336" height="748" alt="image" src="https://github.com/user-attachments/assets/1f6f6118-8869-491b-bcda-f06fe096c649" />
 
 ### Answered Call Time & Queue Time Details
@@ -53,16 +52,46 @@ Key features included in this page:
 
 <img width="1599" height="899" alt="WhatsApp Image 2026-05-17 at 8 54 26 AM" src="https://github.com/user-attachments/assets/2178dc4f-3b72-40ee-bd55-4d86a5028b4d" />
 
+..........
 
 <img width="1599" height="900" alt="WhatsApp Image 2026-05-17 at 9 44 18 AM" src="https://github.com/user-attachments/assets/6e6eaf4f-9713-4002-967a-77f4df6304ad" />
+
 .....
 <img width="1205" height="673" alt="image" src="https://github.com/user-attachments/assets/9a437cf1-cb3a-4281-9493-6c6907c88362" />
 .....
 <img width="1094" height="674" alt="image" src="https://github.com/user-attachments/assets/05f7c7ad-106a-4707-b379-555f97c2a8e1" />
 ......
 
+<img width="1201" height="668" alt="image" src="https://github.com/user-attachments/assets/eb844ebd-994c-4221-a19b-b75bb5c0321e" />
+
+...................
+
+<img width="1200" height="667" alt="image" src="https://github.com/user-attachments/assets/4b90c459-7064-4da7-8965-ea55f6a264a6" />
+
+.............
+
+<img width="1174" height="650" alt="image" src="https://github.com/user-attachments/assets/6d416d2a-7a68-42b2-b1ab-a6d70a09bb6b" />
 
 
+...........
+<img width="1599" height="885" alt="WhatsApp Image 2026-05-17 at 10 13 39 AM" src="https://github.com/user-attachments/assets/f1cdd175-6f77-4ee2-9565-6a697926e4e3" />
+
+.....
+
+<img width="1599" height="896" alt="WhatsApp Image 2026-05-17 at 10 19 20 AM" src="https://github.com/user-attachments/assets/f55c8703-2506-4eff-bbd3-9ab2a0505596" />
+
+.....................
+
+<img width="1198" height="673" alt="image" src="https://github.com/user-attachments/assets/c5dbdd2f-290a-49a5-9634-8c251bfde34d" />
+......
+
+<img width="1599" height="904" alt="WhatsApp Image 2026-05-17 at 10 41 14 AM" src="https://github.com/user-attachments/assets/621bc5a9-ff10-4970-bb14-85f12e003658" />
+
+
+<img width="1599" height="889" alt="WhatsApp Image 2026-05-17 at 10 41 14 AM (1)" src="https://github.com/user-attachments/assets/dafe82c2-b4d5-4157-afc0-78a52b217cf2" />
+
+
+<img width="1599" height="952" alt="image" src="https://github.com/user-attachments/assets/d46cdea4-8f69-4609-9364-6cbeaec9212e" />
 
 
 
