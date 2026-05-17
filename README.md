@@ -32,13 +32,11 @@ This project presents an interactive Power BI dashboard designed to analyze call
 - Performance overview dashboards
 
 ---
-
-## Dashboard Screenshots
-<img width="1336" height="748" alt="image" src="https://github.com/user-attachments/assets/1f6f6118-8869-491b-bcda-f06fe096c649" />
 ### Monthly Overview
 This dashboard provides a high-level overview of call center performance, including total calls, ticket activity, SLA compliance, answer rate, abandoned calls, and operational KPIs.
 
-<img width="1599" height="899" alt="WhatsApp Image 2026-05-17 at 8 54 26 AM" src="https://github.com/user-attachments/assets/2178dc4f-3b72-40ee-bd55-4d86a5028b4d" />
+## Dashboard Screenshots
+<img width="1336" height="748" alt="image" src="https://github.com/user-attachments/assets/1f6f6118-8869-491b-bcda-f06fe096c649" />
 
 ### Answered Call Time & Queue Time Details
 This detailed dashboard page is accessed through the interactive information button available in the “Abandoned Calls by Queue Time Bucket” visual on the main overview dashboard. It provides deeper insights into answered call performance and queue behavior within the helpdesk operation.
@@ -52,6 +50,9 @@ Key features included in this page:
 - Agent performance comparison and workload distribution
 - Interactive filters for dynamic performance analysis
 - Visualization of queue behavior and service efficiency trends
+
+<img width="1599" height="899" alt="WhatsApp Image 2026-05-17 at 8 54 26 AM" src="https://github.com/user-attachments/assets/2178dc4f-3b72-40ee-bd55-4d86a5028b4d" />
+
 
 <img width="1599" height="900" alt="WhatsApp Image 2026-05-17 at 9 44 18 AM" src="https://github.com/user-attachments/assets/6e6eaf4f-9713-4002-967a-77f4df6304ad" />
 .....
