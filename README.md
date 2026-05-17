@@ -57,7 +57,8 @@ Key features included in this page:
 <img width="1599" height="900" alt="WhatsApp Image 2026-05-17 at 9 44 18 AM" src="https://github.com/user-attachments/assets/6e6eaf4f-9713-4002-967a-77f4df6304ad" />
 
 .....
-<img width="1205" height="673" alt="image" src="https://github.com/user-attachments/assets/9a437cf1-cb3a-4281-9493-6c6907c88362" />
+<img width="1920" height="951" alt="WhatsApp Image 2026-05-17 at 10 53 46 AM" src="https://github.com/user-attachments/assets/3e84f688-ea2d-4939-8f0a-85b4d237f219" />
+
 .....
 <img width="1094" height="674" alt="image" src="https://github.com/user-attachments/assets/05f7c7ad-106a-4707-b379-555f97c2a8e1" />
 ......
