@@ -65,13 +65,7 @@ Key features included in this page:
 
 <img width="1201" height="668" alt="image" src="https://github.com/user-attachments/assets/eb844ebd-994c-4221-a19b-b75bb5c0321e" />
 
-...................
-
-<img width="1200" height="667" alt="image" src="https://github.com/user-attachments/assets/4b90c459-7064-4da7-8965-ea55f6a264a6" />
-
-.............
-
-<img width="1174" height="650" alt="image" src="https://github.com/user-attachments/assets/6d416d2a-7a68-42b2-b1ab-a6d70a09bb6b" />
+.................
 
 
 ...........
