@@ -52,7 +52,18 @@ Key features included in this page:
 
 <img width="1599" height="899" alt="WhatsApp Image 2026-05-17 at 8 54 26 AM" src="https://github.com/user-attachments/assets/2178dc4f-3b72-40ee-bd55-4d86a5028b4d" />
 
-..........
+### Agent Performance Analysis
+This dashboard page provides a detailed overview of call center agent performance by comparing answered and abandoned calls across different agents. It supports operational monitoring by highlighting key service metrics, performance indicators, and workload distribution among helpdesk agents.
+
+The dashboard includes interactive filtering options and detailed performance tables to support deeper analysis of agent efficiency and service quality.
+
+Key features included in this page:
+- Comparison of answered and abandoned calls by agent
+- Detailed agent performance metrics and KPI monitoring
+- Analysis of answer rate, FCR, and availability percentages
+- Monitoring of breached tickets and service performance
+- Interactive filters for dynamic agent and date analysis
+- Drill-through functionality to access breached ticket details
 
 <img width="1599" height="900" alt="WhatsApp Image 2026-05-17 at 9 44 18 AM" src="https://github.com/user-attachments/assets/6e6eaf4f-9713-4002-967a-77f4df6304ad" />
 
