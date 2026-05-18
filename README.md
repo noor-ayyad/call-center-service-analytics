@@ -67,7 +67,11 @@ Key features included in this page:
 
 <img width="1599" height="900" alt="WhatsApp Image 2026-05-17 at 9 44 18 AM" src="https://github.com/user-attachments/assets/6e6eaf4f-9713-4002-967a-77f4df6304ad" />
 
-.....
+### Breached Tickets Details
+This detailed dashboard page is accessed through the interactive “Breached Tickets Details” button available on the Agent Performance dashboard. It provides a focused analysis of breached service tickets to support operational monitoring and service quality evaluation.
+
+The page enables users to investigate breached tickets in greater detail by identifying affected requests, monitoring service delays, and analyzing potential performance issues impacting SLA compliance.
+
 <img width="1920" height="951" alt="WhatsApp Image 2026-05-17 at 10 53 46 AM" src="https://github.com/user-attachments/assets/3e84f688-ea2d-4939-8f0a-85b4d237f219" />
 
 .....
