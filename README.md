@@ -91,10 +91,20 @@ Key features included in this page:
 <img width="1094" height="674" alt="image" src="https://github.com/user-attachments/assets/05f7c7ad-106a-4707-b379-555f97c2a8e1" />
 
 ......
+### Other Service Request Channels Details
+This detailed dashboard page is accessed through the interactive information button available in the “Others” service request card on the main Service Requests dashboard. It provides a focused analysis of alternative service request channels, including paper forms, walk-in requests, and self-service tickets.
+
+The page supports operational monitoring by organizing ticket information across different request modes and providing detailed insights into request handling, resolution timelines, and service performance.
+
+Key features included in this page:
+- Interactive drill-through navigation from the Service Requests dashboard
+- Detailed tracking of paper form, walk-in, and self-service tickets
+- Monitoring of request status, priority levels, and resolution times
+- Analysis of ticket handling duration and operational efficiency
+- Group-based filtering for dynamic service request analysis
+- Centralized view of alternative service request channels and activities
 
 <img width="1201" height="668" alt="image" src="https://github.com/user-attachments/assets/eb844ebd-994c-4221-a19b-b75bb5c0321e" />
-
-.................
 
 
 ...........
