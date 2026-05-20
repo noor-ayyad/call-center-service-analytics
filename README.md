@@ -75,7 +75,21 @@ The page enables users to investigate breached tickets in greater detail by iden
 <img width="1920" height="951" alt="WhatsApp Image 2026-05-17 at 10 53 46 AM" src="https://github.com/user-attachments/assets/3e84f688-ea2d-4939-8f0a-85b4d237f219" />
 
 .....
+### Service Requests Overview
+This dashboard page provides a comprehensive overview of service request activity and ticket management performance within the helpdesk operation. It enables monitoring of ticket volumes, request categories, priority levels, and operational status to support efficient service management and decision-making.
+
+The dashboard includes interactive visualizations and filtering options that help analyze ticket trends, request distribution, and pending or overdue service activities.
+
+Key features included in this page:
+- Monitoring of total tickets across different communication channels
+- Analysis of request status and ticket priorities
+- Visualization of request types and service categories
+- Tracking of pending and overdue tickets
+- Interactive filters for dynamic service request analysis
+- Drill-through functionality to access detailed pending and overdue ticket information
+  
 <img width="1094" height="674" alt="image" src="https://github.com/user-attachments/assets/05f7c7ad-106a-4707-b379-555f97c2a8e1" />
+
 ......
 
 <img width="1201" height="668" alt="image" src="https://github.com/user-attachments/assets/eb844ebd-994c-4221-a19b-b75bb5c0321e" />
