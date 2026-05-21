@@ -125,7 +125,18 @@ Key features included in this page:
 <img width="599" height="335" alt="image" src="https://github.com/user-attachments/assets/c16350de-6063-48ca-b067-20622a913170" />
 
 
-.....
+### Overdue Tickets Details
+This detailed dashboard page is accessed through the interactive “View Details” button available in the Overdue Tickets section on the main Service Requests dashboard. It provides a focused analysis of overdue and first-response overdue tickets to support SLA monitoring and operational performance evaluation.
+
+The page enables users to investigate delayed service requests, monitor overdue ticket categories, and review request-level details such as assigned groups, technicians, priority levels, and request creation times.
+
+Key features included in this page:
+- Interactive drill-through navigation from the Service Requests dashboard
+- Monitoring of overdue and first-response overdue tickets
+- Detailed ticket-level operational insights and SLA tracking
+- Analysis of technician assignments and request priorities
+- Group-based filtering for dynamic service performance analysis
+- Support for identifying delays and operational bottlenecks impacting service efficiency
 
 <img width="1199" height="671" alt="image" src="https://github.com/user-attachments/assets/1107a3a9-441a-4522-8fcb-b2c3bca6aee9" />
 
