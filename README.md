@@ -108,6 +108,20 @@ Key features included in this page:
 
 
 ...........
+### Pending Tickets Details
+This detailed dashboard page is accessed through the interactive “View Details” button available in the Pending Tickets section on the main Service Requests dashboard. It provides a focused overview of pending service requests to support operational monitoring and ticket follow-up activities.
+
+The page enables users to track unresolved requests, monitor ticket status categories, and review request-level details such as request type, assigned group, creation time, and pending status.
+
+Key features included in this page:
+- Interactive drill-through navigation from the Service Requests dashboard
+- Detailed monitoring of pending and unresolved tickets
+- Tracking of in-progress and vendor-related pending requests
+- Request-level operational insights and status monitoring
+- Group-based filtering for dynamic ticket analysis
+- Support for identifying delayed or unresolved service requests
+
+
 <img width="599" height="335" alt="image" src="https://github.com/user-attachments/assets/c16350de-6063-48ca-b067-20622a913170" />
 
 
