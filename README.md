@@ -142,6 +142,18 @@ Key features included in this page:
 
 
 .....................
+### Category & Service Classification Analysis
+This dashboard page provides a detailed analysis of service request categories, subcategories, templates, and frequently requested service items. It supports operational monitoring by identifying the most common service areas and request patterns within the helpdesk environment.
+
+The page enables users to analyze ticket distribution across different categories and service classifications to better understand operational demand and support resource planning.
+
+Key features included in this page:
+- Analysis of total tickets by category and subcategory
+- Monitoring of the most frequently used service request templates
+- Visualization of high-demand service items and request patterns
+- Interactive filtering by date and reporting periods
+- Support for identifying operational trends and service demand areas
+- Centralized view of ticket classification and service distribution
 
 <img width="1198" height="673" alt="image" src="https://github.com/user-attachments/assets/c5dbdd2f-290a-49a5-9634-8c251bfde34d" />
 ......
