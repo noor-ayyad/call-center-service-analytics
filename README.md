@@ -158,6 +158,19 @@ Key features included in this page:
 <img width="1198" height="673" alt="image" src="https://github.com/user-attachments/assets/c5dbdd2f-290a-49a5-9634-8c251bfde34d" />
 ......
 
+### Agents Break Monitoring
+This dashboard page provides a detailed overview of agent break activities and compliance with predefined break time limits. It supports operational monitoring by tracking total break durations, identifying exceeded break limits, and evaluating agent adherence to attendance policies.
+
+The dashboard enables supervisors to monitor break behavior across agents while maintaining visibility into working days, break status, and limit compliance.
+
+Key features included in this page:
+- Monitoring of total agent break durations and break limit compliance
+- Identification of agents who exceeded predefined break limits
+- Detailed break tracking by agent and working period
+- Interactive filtering by date and agent name
+- Tooltip functionality displaying additional agent break details, including working days, exceeded days, and exceedance information
+- Support for operational monitoring and workforce performance management
+  
 <img width="1599" height="904" alt="WhatsApp Image 2026-05-17 at 10 41 14 AM" src="https://github.com/user-attachments/assets/621bc5a9-ff10-4970-bb14-85f12e003658" />
 
 
